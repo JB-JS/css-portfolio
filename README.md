@@ -1,1 +1,1 @@
-# css-portfolio
+HTML 과 CSS 만을 이용해 반응형도 제작해보았습니다.
